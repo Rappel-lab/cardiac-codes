@@ -1,4 +1,4 @@
-#Three Dimensional Reconstruction to Visualize Atrial Fibrillation Activation Patterns on Curved Atrial Geometry
+**Three Dimensional Reconstruction to Visualize Atrial Fibrillation Activation Patterns on Curved Atrial Geometry**
 
 This folder contains the necessary sample data and code to generate the electrode shell, interpolate
 the phase signal in 2D and 3D, identify phase singularities in 2D and 3D, and project the 3D
@@ -17,5 +17,5 @@ the reader is able to follow the different sections in this 'interp_method' func
 includes calls to the additional functions included in the folder. The reader can also check the
 documentation of these functions if necessary.
 
-###Raw data of several patients can be downloaded from the following google drive link: 
+**Raw data of several patients can be downloaded from the following google drive link:** 
 https://drive.google.com/drive/folders/1eYm_J4m0nVPZ48Ujhw3EUrcEoZH-Nhbb?usp=sharing
