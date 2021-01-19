@@ -1,4 +1,4 @@
-**Three Dimensional Reconstruction to Visualize Atrial Fibrillation Activation Patterns on Curved Atrial Geometry**
+# Three Dimensional Reconstruction to Visualize Atrial Fibrillation Activation Patterns on Curved Atrial Geometry
 
 This folder contains the necessary sample data and code to generate the electrode shell, interpolate
 the phase signal in 2D and 3D, identify phase singularities in 2D and 3D, and project the 3D
